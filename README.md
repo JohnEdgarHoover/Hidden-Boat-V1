@@ -7,7 +7,7 @@
 <body>
 <div class="typing-svg" align="center">
     <a href="https://git.io/typing-svg" target="_blank">
-        <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+Welcome+to+Hidden+Boat+Multi+Tools;A+GitHub+Project+Repository" alt="Typing SVG">
+        <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+Welcome+to+Hidden+Boat+Multi+Tools;By+Hades" alt="Typing SVG">
     </a>
 </div>
 <br>
