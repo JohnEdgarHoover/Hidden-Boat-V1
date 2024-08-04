@@ -15,7 +15,12 @@
     <img src="https://preview.redd.it/75zlhez8nbob1.png?width=640&crop=smart&auto=webp&s=297634c61235613c0ede8069a819980b212fd421" alt="Project Image">
 </div>
 <br>
-    <p>```git clone https://github.com/JohnEdgarHoover/Hidden-Multi-Tools.git```</p>
+<div>
+    <h2 align="left"> 📋 - Clone the Repository - 📋 </h2>
+    <pre>
+        <code>git clone https://github.com/JohnEdgarHoover/Hidden-Multi-Tools.git</code>
+    </pre>
+</div>
 </a>
     <br>
     <h2 align="left"> 📝 - Contact Us - 📝 </h2>
