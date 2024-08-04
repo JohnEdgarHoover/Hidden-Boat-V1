@@ -19,6 +19,8 @@
 <div>
     <h2 align="left"> 📋 - Clone the Repository - 📋 </h2>
         <code>git clone https://github.com/JohnEdgarHoover/Hidden-Multi-Tools.git</code>
+        <code>cd Hidden-Multi-Tools</code>
+        <code>pip install -r requirements.txt</code>
 </div>
 </a>
     <br>
