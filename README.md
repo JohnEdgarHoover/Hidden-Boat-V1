@@ -20,9 +20,12 @@
     <h2 align="left"> 📋 - Clone the Repository - 📋 </h2>
         <code>git clone https://github.com/JohnEdgarHoover/Hidden-Boat-V1.git</code>
     <br>
+    <br>
         <code>cd Hidden-Boat-V1</code>
     <br>
+    <br>
         <code>pip install -r requirements.txt</code>
+    <br>
     <br>
         <code>python main.py</code>
 </div>
