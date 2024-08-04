@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hidden Boat Multi Tools</title>
 </head>
 <body>
 <div class="typing-svg" align="center">
