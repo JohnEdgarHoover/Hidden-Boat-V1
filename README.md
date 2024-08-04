@@ -18,11 +18,13 @@
 <br>
 <div>
     <h2 align="left"> 📋 - Clone the Repository - 📋 </h2>
-        <code>git clone https://github.com/JohnEdgarHoover/Hidden-Multi-Tools.git</code>
+        <code>git clone https://github.com/JohnEdgarHoover/Hidden-Boat-V1.git</code>
     <br>
-        <code>cd Hidden-Multi-Tools</code>
+        <code>cd Hidden-Boat-V1</code>
     <br>
         <code>pip install -r requirements.txt</code>
+    <br>
+        <code>python main.py</code>
 </div>
 </a>
     <br>
