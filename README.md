@@ -15,10 +15,8 @@
     <img src="https://preview.redd.it/75zlhez8nbob1.png?width=640&crop=smart&auto=webp&s=297634c61235613c0ede8069a819980b212fd421" alt="Project Image">
 </div>
 <br>
-    <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
+    <p>```git clone https://github.com/JohnEdgarHoover/Hidden-Multi-Tools.git```</p>
 </a>
-    ```git clone https://github.com/JohnEdgarHoover/Hidden-Multi-Tools.git```
     <br>
     <h2 align="left"> 📝 - Contact Us - 📝 </h2>
 <p style="text-align: center;">
