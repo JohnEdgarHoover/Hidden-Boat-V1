@@ -17,9 +17,7 @@
 <br>
 <div>
     <h2 align="left"> 📋 - Clone the Repository - 📋 </h2>
-    <pre>
         <code>git clone https://github.com/JohnEdgarHoover/Hidden-Multi-Tools.git</code>
-    </pre>
 </div>
 </a>
     <br>
