@@ -23,8 +23,8 @@ ascii_art = r'''
 
 credits = '''
         Credits:
-    Github: @100defaut
-    Discord: 100defaut
+    Github: @JohnEdgarHoover
+    Discord: John_Edgar_Hoover
 '''
 
 def display_menu():
